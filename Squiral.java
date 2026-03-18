@@ -1,5 +1,5 @@
 public class Squiral{
-    private int[] nums;
+    private int[][] nums;
 
     public Squiral(int n){
         
